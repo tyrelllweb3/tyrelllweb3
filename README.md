@@ -15,3 +15,10 @@ Feel free to say hi or share tips!
 📬 Reach me: [twitter/X] @tyrelllweb3 |tyrelllweb3@gmail.com
 
 Thanks for stopping by!
+
+
+## My GitHub Stats
+
+![Qudus's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrelllweb3&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrelllweb3&layout=compact&theme=dark)
