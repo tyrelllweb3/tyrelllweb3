@@ -21,4 +21,13 @@ Thanks for stopping by!
 
 ![Qudus's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyrelllweb3&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrelllweb3&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrelllweb3&layout=compact&theme=dark) 
+
+
+## Contribution Snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tyrelllweb3/tyrelllweb3/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tyrelllweb3/tyrelllweb3/blob/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://github.com/tyrelllweb3/tyrelllweb3/blob/output/github-snake.svg" />
+</picture>
